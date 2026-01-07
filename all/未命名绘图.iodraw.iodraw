@@ -31,9 +31,6 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-9" value="基础信息检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-10" target="YGoSGUFM3_J6OgUwYDAI-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="210" height="200" as="geometry" />
         </mxCell>
@@ -45,6 +42,12 @@
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-13" value="营养盐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454.5" y="270" as="sourcePoint" />
+            <mxPoint x="454.5" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
