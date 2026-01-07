@@ -17,7 +17,7 @@
           <mxGeometry x="300" y="240" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-5" value="格式检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-6" value="缺测检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="260" width="80" height="40" as="geometry" />
@@ -27,6 +27,9 @@
             <mxPoint x="444.5" y="360" as="sourcePoint" />
             <mxPoint x="444.5" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-4" target="YGoSGUFM3_J6OgUwYDAI-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
