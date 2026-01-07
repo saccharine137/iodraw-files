@@ -146,7 +146,7 @@
           <mxGeometry x="283" y="610" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-36" value="区域特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="615" width="85" height="40" as="geometry" />
+          <mxGeometry x="297" y="615" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-37" value="可视化图形检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="615" width="100" height="40" as="geometry" />
