@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-2" value="浮标水体环境监测数据输入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-2" value="&lt;font color=&quot;#2270ec&quot;&gt;浮标水体环境监测数据输入&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;labelBackgroundColor=#000000;fillColor=#000000;strokeColor=none;" edge="1" parent="1">
