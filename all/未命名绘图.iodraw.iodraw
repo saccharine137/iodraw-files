@@ -94,14 +94,14 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-36" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-36" value="区域特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="615" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-37" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="615" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-39" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="635" width="85" height="40" as="geometry" />
+          <mxGeometry x="530" y="615" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
