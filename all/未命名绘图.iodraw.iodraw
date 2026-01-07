@@ -55,8 +55,8 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-21" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-22" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="400" width="80" height="40" as="geometry" />
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-22" value="气候特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
