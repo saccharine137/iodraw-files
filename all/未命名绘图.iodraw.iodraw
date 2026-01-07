@@ -50,13 +50,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-20" value="范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="384" width="80" height="40" as="geometry" />
+          <mxGeometry x="290" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-21" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-22" value="气候特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="384" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-25" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="440" width="56" height="40" as="geometry" />
