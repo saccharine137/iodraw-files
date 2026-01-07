@@ -31,6 +31,9 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-9" value="基础信息检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-10" target="YGoSGUFM3_J6OgUwYDAI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="210" height="200" as="geometry" />
         </mxCell>
