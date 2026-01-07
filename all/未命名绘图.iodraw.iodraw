@@ -116,7 +116,7 @@
           <mxGeometry x="245" y="190" width="35" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-47" value="要素特征检验" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="190" y="355" width="30" height="100" as="geometry" />
+          <mxGeometry x="200" y="320" width="30" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
