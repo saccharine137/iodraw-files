@@ -64,7 +64,7 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-26" value="恒定检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-27" value="梯度检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-28" value="经验范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
