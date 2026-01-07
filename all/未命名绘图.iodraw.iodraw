@@ -143,7 +143,7 @@
           <mxGeometry x="260" y="600" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282" y="610" width="330" height="50" as="geometry" />
+          <mxGeometry x="283" y="610" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-36" value="区域特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="615" width="85" height="40" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="397" y="615" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-39" value="数据抽样检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="615" width="85" height="40" as="geometry" />
+          <mxGeometry x="526" y="615" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
