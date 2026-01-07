@@ -45,18 +45,18 @@
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444.5" y="370" as="sourcePoint" />
-            <mxPoint x="445" y="400" as="targetPoint" />
+            <mxPoint x="444.5" y="354" as="sourcePoint" />
+            <mxPoint x="445" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-20" value="范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-21" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="405" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-22" value="气候特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="384" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
