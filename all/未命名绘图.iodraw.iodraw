@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="210" height="60" as="geometry" />
+          <mxGeometry x="310" y="200" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-5" value="格式检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="210" width="80" height="40" as="geometry" />
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-9" value="基础信息检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="60" height="100" as="geometry" />
+          <mxGeometry x="220" y="190" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="210" height="200" as="geometry" />
