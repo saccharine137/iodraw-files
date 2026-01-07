@@ -154,7 +154,7 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-39" value="数据抽样检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522" y="615" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;" edge="1" parent="1">
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="446.29" y="660" as="sourcePoint" />
             <mxPoint x="446.79" y="690" as="targetPoint" />
