@@ -41,7 +41,7 @@
           <mxGeometry x="341" y="295" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-11" value="叶绿素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="305" width="80" height="40" as="geometry" />
+          <mxGeometry x="350" y="299" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-13" value="营养盐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461" y="305" width="80" height="40" as="geometry" />
