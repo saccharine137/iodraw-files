@@ -52,6 +52,9 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-20" target="YGoSGUFM3_J6OgUwYDAI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-20" target="YGoSGUFM3_J6OgUwYDAI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-20" value="范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="384" width="80" height="40" as="geometry" />
         </mxCell>
@@ -62,7 +65,7 @@
           <mxGeometry x="540" y="384" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-25" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="440" width="56" height="40" as="geometry" />
+          <mxGeometry x="254" y="455" width="56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-26" value="恒定检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="440" width="60" height="40" as="geometry" />
@@ -71,7 +74,7 @@
           <mxGeometry x="450" y="440" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-28" value="经验范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="56" height="40" as="geometry" />
+          <mxGeometry x="320" y="455" width="56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-29" value="气候特性检验质量符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545.5" y="440" width="69" height="40" as="geometry" />
