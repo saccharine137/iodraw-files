@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="290" height="160" as="geometry" />
+          <mxGeometry x="300" y="200" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-5" value="格式检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
