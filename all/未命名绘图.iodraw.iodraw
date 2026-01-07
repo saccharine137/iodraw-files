@@ -106,9 +106,6 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-21" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="384" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-22" target="YGoSGUFM3_J6OgUwYDAI-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-22" value="气候特性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="384" width="80" height="40" as="geometry" />
         </mxCell>
@@ -123,9 +120,6 @@
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-28" value="经验范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="455" width="56" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-29" value="气候特性检验质量符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="455" width="69" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
