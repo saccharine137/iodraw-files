@@ -28,7 +28,7 @@
             <mxPoint x="444.5" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGoSGUFM3_J6OgUwYDAI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-9" value="基础信息检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
