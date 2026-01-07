@@ -98,7 +98,10 @@
           <mxGeometry x="285" y="615" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-37" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="625" width="85" height="40" as="geometry" />
+          <mxGeometry x="407.5" y="615" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-39" value="极值范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="635" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
