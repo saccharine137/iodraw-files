@@ -52,8 +52,14 @@
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-20" target="YGoSGUFM3_J6OgUwYDAI-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-20" target="YGoSGUFM3_J6OgUwYDAI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-20" value="范围检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="384" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGoSGUFM3_J6OgUwYDAI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YGoSGUFM3_J6OgUwYDAI-21" target="YGoSGUFM3_J6OgUwYDAI-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-21" value="连续性检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="384" width="80" height="40" as="geometry" />
