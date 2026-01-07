@@ -14,13 +14,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="290" height="130" as="geometry" />
+          <mxGeometry x="300" y="240" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-5" value="格式检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-6" value="缺测检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YGoSGUFM3_J6OgUwYDAI-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7;endSize=4.7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
